@@ -32,4 +32,5 @@ Overall, the "Gaming System" project offers an exciting and challenging game tha
 
 Output Screens
 
-![](Source Code/Python Program/Ouput Screen/Screenshot 2024-02-21 090003.png)
+
+
