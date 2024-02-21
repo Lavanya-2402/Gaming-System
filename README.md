@@ -7,7 +7,7 @@ Gaming System: Given target T and the scale S, develop a software to play the ta
 
 METHODOLOGY
 
-PACKAGES USED->
+PACKAGES USED-> 
 PyGame is a set of Python modules designed for game development, providing functionality such as graphics, sound, and user input handling. It can be used to create 2D games and is widely used in the game development community.
 Sys is a built-in Python module that provides access to system-specific parameters and functions. It can be used in game development to exit the game, handle command-line arguments, and access system-specific resources.
 Random is another built-in Python module that provides functions for generating random numbers and sequences. It can be used in game development to generate random events, such as enemy positions, loot drops, or level layouts.
