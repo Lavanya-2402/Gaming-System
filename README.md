@@ -30,4 +30,6 @@ Throughout the development process, the project has encountered several challeng
 To ensure the game's functionality, performance, usability, and security, a thorough testing process was conducted, including various types of testing, such as unit testing, integration testing, functional testing, performance testing, usability testing, compatibility testing, and security testing. 
 Overall, the "Gaming System" project offers an exciting and challenging game that is enjoyable for players of all ages and skill levels. Its unique features, customizable settings, and engaging gameplay make it an excellent addition to the gaming industry, providing players with a new and exciting way to enjoy their free time.
 
+Output Screens
 
+![](Source Code/Python Program/Ouput Screen/Screenshot 2024-02-21 090003.png)
